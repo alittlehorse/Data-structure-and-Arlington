@@ -1,0 +1,11 @@
+﻿  DS.LinkedList.cpp
+e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(201): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(201): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(201): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(201): note: 此参数用作缓冲区大小
+e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(215): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(215): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(215): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(215): note: 此参数用作缓冲区大小
+e:\c\ds.linkedlist\ds.linkedlist\ds.linkedlist.cpp(179): warning C4715: “ListInsert_L”: 不是所有的控件路径都返回值
+  DS.LinkedList.vcxproj -> E:\c\DS.LinkedList\Debug\DS.LinkedList.exe
